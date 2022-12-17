@@ -8,3 +8,4 @@ I state my web developement jobe in now..
 I will join at my New company 1st December...
 =======
 >>>>>>> 21579ac0f72606fe7cc72ecdd0189597be902832
+logo alignment is centered.
